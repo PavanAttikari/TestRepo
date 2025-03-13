@@ -3,3 +3,4 @@ Hi, this is just a sample js file.
 - Aknowledged from the local
 - changed in the uat branch
 - Changed in test branchs
+- 1
